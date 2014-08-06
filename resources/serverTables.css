@@ -1,0 +1,26 @@
+.server{
+    margin-top: 15px;
+}
+.serverInfos{
+    width: 30%;
+    float: left
+}
+.serverPlayers{
+    width: 65%;
+    float: left;
+    height: 250px;
+    overflow-y: scroll;
+}
+
+.server table{
+    width: 100%;
+}
+.server tr.odd{
+    background-color: #fff;
+}
+.server tr.even{
+    background-color: #eee;
+}
+.server th{
+    text-align: left;
+}

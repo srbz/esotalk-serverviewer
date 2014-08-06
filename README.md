@@ -6,7 +6,7 @@ Adds sever management for communities for esoTalk.
 How to Install
 ==============
 
-Dont install yet! -- seriously. Please!
+Dont install yet! -- seriously. Please! Only if you can handle the amount of uglieness and pain in my code and css.
 
 1. Open up your terminal / command prompt and `cd` to `addons/plugins`
 2. Run `git clone https://github.com/srbz/esotalk-serverviewer.git ServerViewer`
@@ -14,7 +14,7 @@ Dont install yet! -- seriously. Please!
 Dependencies
 ============
 
-This plugin only depends on GameQ 1.12 and the current esoTalk version (1.0.0g4)
+This plugin only depends on GameQ 2 (which comes in the resources folder) and the current esoTalk version (1.0.0g4)
 
 Translation
 ===========
